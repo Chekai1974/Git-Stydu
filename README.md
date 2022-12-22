@@ -1,1 +1,1 @@
-# Git-Stydu
+# Git-Study
