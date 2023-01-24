@@ -5,4 +5,4 @@ LALALALA test
 =======
 Llalala test(main)
 
->>>>>>> test
+New text1
