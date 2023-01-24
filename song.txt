@@ -1,3 +1,8 @@
 All good
 dsdasf
+<<<<<<< HEAD
 LALALALA test
+=======
+Llalala test(main)
+
+>>>>>>> test
